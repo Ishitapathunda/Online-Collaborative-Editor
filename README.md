@@ -1,4 +1,4 @@
-#📝 Online Collaborative C++ Code Editor
+📝 Online Collaborative C++ Code Editor
 
 A real-time collaborative C++ code editor where multiple users can simultaneously edit, compile, and run code. Built with React.js, Node.js, Socket.IO, and Docker, the project ensures secure and scalable execution of C++ code inside sandboxed environments.
 
